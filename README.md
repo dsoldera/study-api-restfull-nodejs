@@ -5,4 +5,7 @@ Study how to create and work with API Restfull and Nodejs
 https://www.youtube.com/watch?v=BN_8bCfVp88
 
 ## programming with mosh
-https://www.youtube.com/watch?v=pKd0Rpw7O48
+cd ..
+
+## mark-brito
+https://www.youtube.com/watch?v=ghTrp1x_1As
