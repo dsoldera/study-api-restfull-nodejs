@@ -1,0 +1,14 @@
+{
+  "name": "study-api-restfull-mark-brito",
+  "version": "1.0.0",
+  "description": "Estudo de API Restfull com Mark Brito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danielle Soldera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
