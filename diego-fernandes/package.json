@@ -1,0 +1,20 @@
+{
+  "name": "api-nodejs-express-mongo-by-diego-fernandes",
+  "version": "1.0.0",
+  "description": "Study of API NodeJs Express and Mongo by Diego Fernandes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "express",
+    "mongo"
+  ],
+  "author": "Danielle Soldera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
