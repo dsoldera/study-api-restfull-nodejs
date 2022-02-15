@@ -2,7 +2,7 @@
   "name": "api-nodejs-express-mongo-by-diego-fernandes",
   "version": "1.0.0",
   "description": "Study of API NodeJs Express and Mongo by Diego Fernandes",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,6 +15,10 @@
   "author": "Danielle Soldera",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2"
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15"
   }
 }
